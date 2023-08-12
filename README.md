@@ -4,9 +4,9 @@ STUDY WITH MIKU web version cover
 
 突发奇想，将其变为现实
 
-[WEB](https://music.163.com/playlist?id=8645523100)
+[WEB](https://vincentcroft.github.io/StudyWithMiku)
 
-[WEB(Cloudflare)](https://music.163.com/playlist?id=8645523100)
+[WEB(Cloudflare)](https://vincentcroft.github.io/StudyWithMiku)
 
 ## 目前实现的功能
 
